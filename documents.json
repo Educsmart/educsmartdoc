@@ -1,25 +1,25 @@
 [
   {
     "id": "ID1",
-    "title": "Néant",
-    "subject": "Néant",
-    "class_level": "Néant",
+    "title": "TRAVAUX DIRIGES",
+    "subject": "MATHEMATIQUE",
+    "class_level": "Terminale C",
     "description": "Néant",
-    "author": "Néant",
-    "publisher": "Néant",
-    "edition": "Néant",
-    "publication_date": "Néant",
-    "number_of_pages": 0,
-    "file_type": "Néant",
-    "language": "Néant",
+    "author": "Ignace M. AYIHOUNKPE",
+    "publisher": "Ignace M. AYIHOUNKPE",
+    "edition": "EducSmart",
+    "publication_date": "2025-05-31",
+    "number_of_pages": 6,
+    "file_type": "PDF",
+    "language": "Français",
     "tags": [
-      "Néant"
+      "TRAVAUX DIRIGES"
     ],
-    "thumbnail": "Néant",
+    "thumbnail": "https://drive.google.com/file/d/1jL4XGpIKXr8TURlNtFk9ZUQZtL-aUyvi/view?usp=sharing",
     "drive_view_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
     "drive_download_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
     "popularity": 0,
-    "created_at": ""
+    "created_at": "2026-04-03T00:00:00Z"
   },
   {
     "id": "ID2",
