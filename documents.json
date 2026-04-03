@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ID1",
+    "title": "Néant",
+    "subject": "Néant",
+    "class_level": "Néant",
+    "description": "Néant",
+    "author": "Néant",
+    "publisher": "Néant",
+    "edition": "Néant",
+    "publication_date": "Néant",
+    "number_of_pages": 0,
+    "file_type": "Néant",
+    "language": "Néant",
+    "tags": [
+      "Néant"
+    ],
+    "thumbnail": "Néant",
+    "drive_view_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
+    "drive_download_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
+    "popularity": 0,
+    "created_at": ""
+  },
+  {
+    "id": "ID2",
+    "title": "Néant",
+    "subject": "Néant",
+    "class_level": "Néant",
+    "description": "Néant",
+    "author": "Néant",
+    "publisher": "Néant",
+    "edition": "Néant",
+    "publication_date": "Néant",
+    "number_of_pages": 0,
+    "file_type": "Néant",
+    "language": "Néant",
+    "tags": [
+      "Néant"
+    ],
+    "thumbnail": "Néant",
+    "drive_view_link": "https://drive.google.com/file/d/14HXkHfnyHPgPALg71GBEmxHR24bc1AW_/view?usp=drive_link",
+    "drive_download_link": "https://drive.google.com/file/d/14HXkHfnyHPgPALg71GBEmxHR24bc1AW_/view?usp=drive_link",
+    "popularity": 0,
+    "created_at": ""
+  },
+  {
+    "id": "ID3",
+    "title": "Néant",
+    "subject": "Néant",
+    "class_level": "Néant",
+    "description": "Néant",
+    "author": "Néant",
+    "publisher": "Néant",
+    "edition": "Néant",
+    "publication_date": "Néant",
+    "number_of_pages": 0,
+    "file_type": "Néant",
+    "language": "Néant",
+    "tags": [
+      "Néant"
+    ],
+    "thumbnail": "Néant",
+    "drive_view_link": "https://drive.google.com/file/d/1pvD-zlNdCxrYZrDBIGvhIyF-R6Hv5G7t/view?usp=drive_link",
+    "drive_download_link": "https://drive.google.com/file/d/1pvD-zlNdCxrYZrDBIGvhIyF-R6Hv5G7t/view?usp=drive_link",
+    "popularity": 0,
+    "created_at": ""
+  }
+]
