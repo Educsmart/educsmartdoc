@@ -2,7 +2,7 @@
   {
     "id": "ID1",
     "title": "TD Sam 31 Mai 2025",
-    "subject": "MATHEMATIQUE",
+    "subject": "MATHEMATIQUES",
     "class_level": "Terminale C",
     "description": "Evaluation formative portant sur les fonctions exponentielles",
     "author": "Ignace M. AYIHOUNKPE",
@@ -18,51 +18,51 @@
     "thumbnail": "https://raw.githubusercontent.com/Educsmart/educsmartdoc/refs/heads/main/educsmartimages/Capture%20d'%C3%A9cran%202026-04-03%20194356.png",
     "drive_view_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
     "drive_download_link": "https://drive.google.com/file/d/1sxRo3GTltRVlxsZ42UCkoT9RX2_plBOl/view?usp=drive_link",
-    "popularity": 0,
+    "popularity": 100,
     "created_at": "2026-04-03T00:00:00Z"
   },
   {
     "id": "ID2",
-    "title": "Néant",
-    "subject": "Néant",
-    "class_level": "Néant",
-    "description": "Néant",
-    "author": "Néant",
-    "publisher": "Néant",
-    "edition": "Néant",
-    "publication_date": "Néant",
-    "number_of_pages": 0,
-    "file_type": "Néant",
-    "language": "Néant",
+    "title": "Synthèse Calcul des limites",
+    "subject": "MATHEMATIQUES",
+    "class_level": "Terminale C&D",
+    "description": "SA2 : Organisation des données : Synthèse partielle sur le calcul des limites",
+    "author": "Ignace M. AYIHOUNKPE",
+    "publisher": "Ignace M. AYIHOUNKPE",
+    "edition": "Modibo Keita",
+    "publication_date": "2026-01-01",
+    "number_of_pages": 5,
+    "file_type": "PDF",
+    "language": "Français",
     "tags": [
-      "Néant"
+      "TRAVAUX DIRIGES"
     ],
-    "thumbnail": "Néant",
+    "thumbnail": "https://raw.githubusercontent.com/Educsmart/educsmartdoc/refs/heads/main/educsmartimages/MODIBO6.png",
     "drive_view_link": "https://drive.google.com/file/d/14HXkHfnyHPgPALg71GBEmxHR24bc1AW_/view?usp=drive_link",
     "drive_download_link": "https://drive.google.com/file/d/14HXkHfnyHPgPALg71GBEmxHR24bc1AW_/view?usp=drive_link",
-    "popularity": 0,
-    "created_at": ""
+    "popularity": 100,
+    "created_at": "2026-04-04T00:00:00Z"
   },
   {
     "id": "ID3",
-    "title": "Néant",
-    "subject": "Néant",
-    "class_level": "Néant",
-    "description": "Néant",
-    "author": "Néant",
-    "publisher": "Néant",
-    "edition": "Néant",
-    "publication_date": "Néant",
-    "number_of_pages": 0,
-    "file_type": "Néant",
-    "language": "Néant",
+    "title": "Etude de signe des fonctions dérivées",
+    "subject": "MATHEMATIQUES",
+    "class_level": "Terminale C&D",
+    "description": "SA2 : Organisation des données : Etude de signe des fonctions",
+    "author": "Ignace M. AYIHOUNKPE",
+    "publisher": "Ignace M. AYIHOUNKPE",
+    "edition": "Modibo Keita",
+    "publication_date": "2026-01-01",
+    "number_of_pages": 3,
+    "file_type": "PDF",
+    "language": "Français",
     "tags": [
-      "Néant"
+      "TRAVAUX DIRIGES"
     ],
-    "thumbnail": "Néant",
+    "thumbnail": "https://raw.githubusercontent.com/Educsmart/educsmartdoc/refs/heads/main/educsmartimages/MODIBO7.png",
     "drive_view_link": "https://drive.google.com/file/d/1pvD-zlNdCxrYZrDBIGvhIyF-R6Hv5G7t/view?usp=drive_link",
     "drive_download_link": "https://drive.google.com/file/d/1pvD-zlNdCxrYZrDBIGvhIyF-R6Hv5G7t/view?usp=drive_link",
-    "popularity": 0,
-    "created_at": ""
+    "popularity": 100,
+    "created_at": "2026-04-04T00:00:00Z"
   }
 ]
